@@ -19,6 +19,6 @@
 
 main()
 {
-   int i;
+   int i, j, k;
 }
 
